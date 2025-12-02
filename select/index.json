@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "おしゃかしゃま",
+  "base_artist": "RADWIMPS",
+  "createdAt": "2025-12-02T12:59:23.752333Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "おしゃかしゃま",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/01_おしゃかしゃま_RADWIMPS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "おしゃかしゃま",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_01_おしゃかしゃま_RADWIMPS.txt"
+    }
+  ]
+}
